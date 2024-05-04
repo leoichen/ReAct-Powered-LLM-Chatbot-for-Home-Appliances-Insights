@@ -6,8 +6,6 @@ The infrastucture of the app can be seen in the image below. The thought process
 
 The product database contains information on the appliancs of the 50 most searched appliances, helping to minimize latency that occurs with web scraping.
 
-![Application Infastructure Diagram](images/application_infrastructure.png)
-
 <p align="center">
 <img src="https://github.com/leoichen/ReAct-Powered-LLM-Chatbot-for-Home-Appliances-Insights/blob/main/images/application_infrastructure.png" width="80%" height="80%" />
 </p>
