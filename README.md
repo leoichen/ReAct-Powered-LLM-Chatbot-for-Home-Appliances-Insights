@@ -6,4 +6,9 @@ The infrastucture of the app can be seen in the image below. The thought process
 
 The product database contains information on the appliancs of the 50 most searched appliances, helping to minimize latency that occurs with web scraping.
 
+## Code Files
+There are two code files for this project:
 
+_llm_main.py_
+
+_llm_setup.py_
