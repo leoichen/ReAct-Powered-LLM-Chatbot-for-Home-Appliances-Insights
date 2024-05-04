@@ -9,6 +9,6 @@ The product database contains information on the appliancs of the 50 most search
 ## Code Files
 There are two code files for this project:
 
-_llm_main.py_
+_llm_main.py_ - This contains the code to run the LLM agent.
 
-_llm_setup.py_
+_llm_setup.py_ This contains the setup of the LLM agent.
