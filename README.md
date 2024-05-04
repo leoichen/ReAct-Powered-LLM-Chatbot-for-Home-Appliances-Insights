@@ -8,6 +8,9 @@ The product database contains information on the appliancs of the 50 most search
 
 ![Application Infastructure Diagram](images/application_infrastructure.png)
 
+<img src="https://github.com/leoichen/ReAct-Powered-LLM-Chatbot-for-Home-Appliances-Insights/images/application_infrastructure.png" width="200" height="200" />
+
+
 ## Code Files
 There are two code files for this project:
 
